@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-
+Hi, I'm Muhammad Al-amin.
 
 
 ## 🌐 Socials:
