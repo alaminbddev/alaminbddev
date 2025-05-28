@@ -1,6 +1,13 @@
+
 # 💫 About Me:
 
 Hi, I'm Muhammad Al-amin.
+
+- 🔭 I’m currently working as a Fronted developer at WEBUInet by @NetSMG 
+- 🌱 I’m exploring AI, DevOps, and Cloud Technologies
+- 💬 Ask me about JavaScript, Python, React, Node.js
+- 👯 I’m open to collaborating on Open Source Projects
+- ⚡ Fun fact: I can debug code faster with coffee
 
 
 ## 🌐 Socials:
@@ -18,8 +25,30 @@ Hi, I'm Muhammad Al-amin.
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alaminbddev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
+## 🚀 Featured Projects
 
+| Project | Live | Description | Tech |
+| ------- | ---- | ----------- | ---- |
+| [AppRoots](https://github.com/alaminbddev/approots) |[Link](https://approots.vercel.app) | A modern web app for quizzes management. | SvelteKit, Node.js, Firebase |
 
+---
+## 🗣️ Languages
+
+- English (Professional)
+- Bengali (Native)
+- Hindi (Conversational)
+
+---
+
+## 💡 Fun Fact
+
+> “Code is like humor. When you have to explain it, it’s bad.”
+> — Cory House
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alaminbddev&label=Profile%20views&color=0e75b6&style=flat" alt="alaminbddev" />
+</p>
