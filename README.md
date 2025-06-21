@@ -33,6 +33,7 @@ Hi, I'm Muhammad Al-amin.
 | ------- | ---- | ----------- | ---- |
 | [AppRoots](https://github.com/alaminbddev/approots) |[Link](https://approots.vercel.app) | A modern web app for quizzes management. | SvelteKit, Node.js, Firebase |
 | [PDFShareHub](https://github.com/alaminbddev/pdfsharerhub) |[Link](https://pdfsharehub.vercel.app) | A modern web app for sharing pdf among University student. | SvelteKit, Node.js, Firebase |
+| [Dev Portfolio](https://github.com/alaminbddev/) |[Link](https://craftui-porto.vercel.app/) | A modern web app for portofolilo. | Vite |
 
 ---
 ## 🗣️ Languages
