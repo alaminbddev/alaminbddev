@@ -29,16 +29,43 @@ Hi, I'm Muhammad Al-amin.
 
 ## 🚀 Featured Projects
 
-| Project | Live | Description | Tech |
-| ------- | ---- | ----------- | ---- |
-| 
-[Study to Achieve](https://studytoachieve l.vercel.app) |[Link](https://studytoachieve.vercel.app) | A modern web app for corse selling and examapp management system. | SvelteKit, Node.js,Mongodb,Typescript,JWT, Firebase |
-|
-[AppRoots](https://github.com/alaminbddev/approots) |[Link](https://approots.vercel.app) | A modern web app for quizzes management. | SvelteKit, Node.js, Firebase |
-| [PDFShareHub](https://github.com/alaminbddev/pdfsharerhub) |[Link](https://pdfsharehub.vercel.app) | A modern web app for sharing pdf among University student. | SvelteKit, Node.js, Firebase |
-| [Dev Portfolio](https://github.com/alaminbddev/) |[Link](https://craftui-porto.vercel.app/) | A modern web app for portofolilo. | Vite |
+Here are some of my recent projects showcasing modern full-stack development using technologies like **SvelteKit**, **Node.js**, **Firebase**, **MongoDB**, and more.
 
 ---
+
+### 🎓 [Study to Achieve](https://studytoachieve.vercel.app)
+A modern web application for course selling and exam management.
+
+- 🔗 [Live Site](https://studytoachieve.vercel.app) &nbsp;|&nbsp; [GitHub Repo](https://github.com/alaminbddev/studytoachieve)
+- 🛠️ **Tech Stack:** SvelteKit, Node.js, MongoDB, TypeScript, JWT, Firebase
+
+---
+
+### 🧠 [AppRoots](https://approots.vercel.app)
+A powerful web app for managing quizzes and assessments with modern UI/UX.
+
+- 🔗 [Live Site](https://approots.vercel.app) &nbsp;|&nbsp; [GitHub Repo](https://github.com/alaminbddev/approots)
+- 🛠️ **Tech Stack:** SvelteKit, Node.js, Firebase
+
+---
+
+### 📚 [PDFShareHub](https://pdfsharehub.vercel.app)
+A platform for university students to upload and share educational PDFs.
+
+- 🔗 [Live Site](https://pdfsharehub.vercel.app) &nbsp;|&nbsp; [GitHub Repo](https://github.com/alaminbddev/pdfsharerhub)
+- 🛠️ **Tech Stack:** SvelteKit, Node.js, Firebase
+
+---
+
+### 💼 [Dev Portfolio](https://craftui-porto.vercel.app)
+A sleek, responsive portfolio showcasing projects, skills, and experience.
+
+- 🔗 [Live Site](https://craftui-porto.vercel.app) &nbsp;|&nbsp; [GitHub Repo](https://github.com/alaminbddev/craftui-porto)
+- 🛠️ **Tech Stack:** Vite, TailwindCSS
+
+---
+
+> 📌 Want to collaborate or learn more about any of these projects? Feel free to reach out or contribute!
 ## 🗣️ Languages
 
 - English (Professional)
