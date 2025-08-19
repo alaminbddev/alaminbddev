@@ -30,8 +30,16 @@ Hi, I'm Muhammad Al-amin.
 ## 🚀 Featured Projects
 
 Here are some of my recent projects showcasing modern full-stack development using technologies like **SvelteKit**, **Node.js**, **Firebase**, **MongoDB**, and more.
+---
+
+### 🎓 [SA](https://sanextapp-psi.vercel.app/)
+A modern multipurpose web application (In Development)
+
+- 🔗 [Live Site](https://sanextapp-psi.vercel.app/) &nbsp;|&nbsp; [GitHub Repo](https://github.com/alaminbddev/next-02)
+- 🛠️ **Tech Stack:** NextJs,ShadCN, Tailwindcss, Node.js, MongoDB, TypeScript, JWT, Firebase
 
 ---
+
 
 ### 🎓 [Study to Achieve](https://studytoachieve.vercel.app)
 A modern web application for course selling and exam management.
