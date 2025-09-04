@@ -29,7 +29,7 @@ Hi, I'm Muhammad Al-amin.
 
 ## 🚀 Featured Projects
 
-Here are some of my recent projects showcasing modern full-stack development using technologies like **SvelteKit**, **Node.js**, **Firebase**, **MongoDB**, and more.
+Here are some of my recent projects showcasing modern full-stack development using technologies like **SvelteKit**, **Node.js**, **React**, **Nextjs**, **NuxtJS**, **Firebase**, **MongoDB**, and more.
 ---
 
 ### 🎓 [SA](https://sanextapp-psi.vercel.app/)
