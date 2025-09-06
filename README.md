@@ -24,12 +24,19 @@ Hi, I'm Muhammad Al-amin.
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
+
 
 ## 🚀 Featured Projects
 
 Here are some of my recent projects showcasing modern full-stack development using technologies like **SvelteKit**, **Node.js**, **React**, **Nextjs**, **NuxtJS**, **Firebase**, **MongoDB**, and more.
+---
+### 🎓 [WEBUInet-pro](https://webuinet-pro.vercel.app/)
+A modern AI copywriting web application (In Development)
+
+- 🔗 [Live Site](https://webuinet-pro.vercel.app/) &nbsp;|&nbsp; [GitHub Repo](https://github.com/alaminbddev/webuinet-02)
+- 🛠️ **Tech Stack:** Sveltekit , Tailwindcss, Node.js, MongoDB, TypeScript, JWT, Firebase
+
 ---
 
 ### 🎓 [SA](https://sanextapp-psi.vercel.app/)
